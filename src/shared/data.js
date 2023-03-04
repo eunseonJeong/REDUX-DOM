@@ -1,0 +1,28 @@
+export const list =[{
+    id:1,
+    todo:'자바스크립트'
+},
+{
+    id:2,
+    todo:'자바'
+},
+{
+    id:3,
+    todo:'노드'
+},
+{
+    id:4,
+    todo:'스프링'
+},
+{
+    id:5,
+    todo:'몰라'
+},
+{
+    id:6,
+    todo:'코딩'
+},
+{
+    id:7,
+    todo:'항해99'
+}];
